@@ -1,11 +1,11 @@
 # estufa-inteligente
 Bolsa acadêmica ofertada pelo o IFCE campus boa viagem, com o intuito de desenvolver uma estufa inteligente que pudesse ajudar no manejo das plantas, e a possibilidade de criar novas plantas exóticas que não são possíveis nascer e se criar no semiárido do nordeste, devido as suas situações climáticas. 
 
-FLUXOGRAMA E INDTRODUÇÃO DO PROPJETO:
+FLUXOGRAMA E INTRODUÇÃO DO PROJETO:
 
 ![2b0464e5-26b8-4ac5-a32e-f39c86870c39](https://user-images.githubusercontent.com/88889584/202822705-b99b9baf-e63b-42bf-a47c-76b9cef79d03.jpg)
 
-IMAGENS DO PROJETO:
+IMAGENS DO PROTÓTIPO COM BASE NO PROJETO PROJETO (não tinha placa sola no protótipo pois era um custo alto para nivel de que estava sendo desenvolvido, então foi decidido usar apenas para uma simulação do projeto, a energia eletrica convencional):
 
 
 ![P_20180913_145122](https://user-images.githubusercontent.com/88889584/202822756-77bf2bef-5c2e-456b-be96-03f1aeca0558.jpg)
